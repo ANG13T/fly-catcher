@@ -5,7 +5,7 @@
 <p align="center">
   <i>Fly Catcher monitors for malicious ADS-B signals in the 1090MHz frequency to detect for aircraft spoofing</i>
    <br/><br/>
-  <b><a href="./docs/showcase.md">User Showcase</a></b> | <b><a href="https://demo.dashy.to">Live Demo</a></b> | <b><a href="./docs/quick-start.md">Getting Started</a></b> | <b><a href="https://dashy.to/docs">Documentation</a></b> | <b><a href="https://github.com/Lissy93/dashy">GitHub</a></b>
+  <b><a href="./docs/showcase.md">Learn More</a></b> | <b><a href="https://demo.dashy.to">Build Guide</a></b> | <b><a href="./docs/quick-start.md">Getting Started</a></b> | <b><a href="https://dashy.to/docs">Video</a></b> | <b><a href="https://github.com/Lissy93/dashy">Research Paper</a></b>
   <br/><br/>
 </p>
 
@@ -47,6 +47,7 @@
 </details>
 
 ## Features ✈️
+- 
 
 ## Demo Gallery ⚡️
 
@@ -58,7 +59,7 @@
 - Updating the Raspberry Pi
 - Running the Code
 
-## Detecting for Spoofing
+## Detecting for Spoofing 🔎
 - Download the Jupyter Notebook
 - Upload flight logs from device
 - Get device feedback
