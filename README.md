@@ -14,33 +14,19 @@
   <p>
   
 - **Getting Started**
-  - [🌈 Features](#features-)
-  - [⚡Demo](#demo-)
-  - [🚀 Getting Started](#getting-started-)
-  - [🔧 Configuring](#configuring-)
-- **Feature Overview**
-  - [🎨 Theming](#theming-)
-  - [🧸 Icons](#icons-)
-  - [🚦 Status Indicators](#status-indicators-)
-  - [📊 Widgets](#widgets-)
-  - [🔐 Authentication](#authentication-)
-  - [👓 Alternate Views](#alternate-views-)
-  - [🖱️ Opening Methods](#opening-methods-)
-  - [🔎 Searching and Shortcuts](#searching-and-shortcuts-)
-  - [⚙️ Config Editor](#config-editor-)
-  - [☁ Cloud Backup & Sync](#cloud-backup--sync-)
-  - [🌎 Language Switching](#language-switching-)
-  - [📃 Multi-Page Support](#multi-page-support-)
+  - [✈️ Features](#features-)
+  - [⚡ Demo Gallery](#demo-)
+  - [⚙️ Build it Yourself](#configuring-)
+  - [🚀 Getting Started](#configuring-)
+  - [🔎 Detecting for Spoofing](#configuring-)
+- **Learning More**
+  - [🎥 Watch it in Action](#theming-)
+  - [🔬 Read the Research Paper](#icons-)
+  - [📄 Read the Article](#icons-)
 - **Community**
-  - [📊 System Requirements](#system-requirements-)
-  - [🙋‍♀️ Support](#support-)
-  - [💖 Supporting Dashy](#supporting-dashy-)
-  - [🏆 Credits](#credits-)
-  - [🧱 Developing](#developing-)
-  - [🗞️ Release Schedule](#release-schedule-)
-  - [📘 Documentation](#documentation-)
-  - [🛣️ Roadmap](#roadmap-)
-  - [🙌 Alternatives](#alternatives-)
+  - [✨ Contributing](#system-requirements-)
+  - [🏆 Special Thanks & Credits](#credits-)
+  - [💜 Support](#supporting-dashy-)
   - [📜 License](#license-)
     
   </p>
@@ -70,4 +56,6 @@
 
 ## Contributing ✨
 
-## Special Thanks & Credits 💜
+## Special Thanks & Credits 🏆
+
+## Support 💜
