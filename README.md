@@ -14,7 +14,7 @@
   <p>
   
 - **Getting Started**
-  - [✈️ Features](#features-)
+  - [✈️ Features](#features-️)
   - [⚡ Demo Gallery](#demo-)
   - [⚙️ Build it Yourself](#configuring-)
   - [🚀 Getting Started](#configuring-)
