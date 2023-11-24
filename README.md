@@ -52,6 +52,7 @@
 </table>
 
 ## Watch it in Action 🎥
+Watch the video overview of Fly Catcher on YouTube
 
 ## Build it Yourself ⚙️
 - Materials List
@@ -65,11 +66,26 @@
 - Get device feedback
 
 ## Research Paper 🔬
+To get a more in-depth and technical overview of Fly Catcher, you can refer to this [research paper](https://github.com/ANG13T/fly-catcher/blob/main/assets/project_report.pdf).
 
 ## Future Improvements 🚀
+- Enhanced UI features on the radar screen 
+- Deep learning techniques such as RNNs and LSTM networks
+- Incorporating reinforcement learning techniques
+- Differentiate spoofing attacks (ie. GPS spoofing, aircraft masquerading, etc)
 
 ## Contributing ✨
+Fly Catcher is open to any contributions. Please fork the repository and make a pull request with the features or fixes you want to implement.
 
 ## Special Thanks & Credits 🏆
+The Fly Catcher leveraged on previous ADS-B works and references included below
+
+- [Pi Aware Radar by Martin O'Hanlon](http://www.stuffaboutcode.com/2015/11/raspberry-pi-piaware-aircraft-radar.html)
+- [Reference dump1090 README](https://github.com/SDRplay/dump1090/blob/master/README-json.md)
+- [Data Samples from ADSB Exchange](https://www.adsbexchange.com/data-samples/)
+- [IEEE Research on ADS-B Signals](https://ieeexplore.ieee.org/document/9377975)
 
 ## Support 💜
+If you enjoyed Fly Catcher, please consider becoming a sponsor in order to fund my future projects.
+
+To check out my other works, visit my [GitHub profile](github.com/ANG13T).
