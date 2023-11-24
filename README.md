@@ -55,10 +55,45 @@
 Watch the video overview of Fly Catcher on YouTube
 
 ## Build it Yourself ⚙️
-- Materials List
-- Constructing the Device
-- Updating the Raspberry Pi
-- Running the Code
+
+###  Materials List
+- 1090MHz Rubber Ducky Antenna
+- Raspberry Pi 3B
+- FlightAware Pro Stick Plus SDR
+- 3.5 in TFT Screen
+- Portable Battery Charger
+- USB-C to Micro USB Cable
+- [Custom 3D Printed Case](https://github.com/ANG13T/fly-catcher/blob/main/fabrication/Device_Case.f3d)
+- SD Card
+- Rasbian Operating System
+- 4x 3/32 Screws
+- Python and Pip on Raspberry Pi
+
+### Constructing the Device
+1. Install the Rasbian operating system to the Raspberry Pi with the SD Card
+2. Connect the Flight Aware SDR to the Raspberry Pi using the Micro USB cable
+3. Connect the 1090 MHz antenna to the Flight Aware SDR
+4. Configure the 3.5-inch TFT Screen to the Raspberry Pi
+5. Place the Device into the 3D Printed Case
+6. Ensure Python and Pip are installed on the Raspberry Pi
+7. Install dump-1090 FlightAware library on the Raspberry Pi to receive ADS-B
+information
+
+#### The following tutorial is very helpful for getting dump-1090 installed on the Pi
+[https://www.stuffaboutcode.com/2015/11/raspberry-pi-piaware-aircraft-radar.html](https://www.stuffaboutcode.com/2015/11/raspberry-pi-piaware-aircraft-radar.html)
+
+### Running the Radar Code
+
+Clone the Repository on the Pi
+```
+git clone https://github.com/ANG13T/fly-catcher.git
+```
+
+Run the Program
+```
+python3 fly-catcher/device-rpi/piawareradar.py longitude latitude
+```
+Replace longitude and latitude with your [geo-coordinates](https://www.gps-coordinates.net/)
 
 ## Detecting for Spoofing 🔎
 - Download the Jupyter Notebook
