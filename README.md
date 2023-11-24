@@ -45,9 +45,9 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github.com/ANG13T/fly-catcher/blob/main/assets/display_1.png?raw=true" alt="Gallery Image" height="220" width="300"> <h4 align="center">Picture of the completed build</h4></td>
-    <td valign="top"><img src="https://github.com/ANG13T/fly-catcher/blob/main/assets/display_2.png?raw=true" alt="Gallery Image" height="220" width="300"> <h4 align="center">Device shown with the SportCruiser</h4></td>
-    <td valign="top"><img src="https://github.com/ANG13T/fly-catcher/blob/main/assets/display_3.png?raw=true" alt="Gallery Image" height="220" width="300"> <h4 align="center">Display shown on the TFT Screen</h4></td>
+    <td valign="top"><img src="https://github.com/ANG13T/fly-catcher/blob/main/assets/display_1.png?raw=true" alt="Gallery Image" height="180" width="250"> <h4 align="center">Picture of the completed build</h4></td>
+    <td valign="top"><img src="https://github.com/ANG13T/fly-catcher/blob/main/assets/display_2.png?raw=true" alt="Gallery Image" height="180" width="250"> <h4 align="center">Device shown with the SportCruiser</h4></td>
+    <td valign="top"><img src="https://github.com/ANG13T/fly-catcher/blob/main/assets/display_3.png?raw=true" alt="Gallery Image" height="180" width="250"> <h4 align="center">Display shown on the TFT Screen</h4></td>
   </tr>
 </table>
 
