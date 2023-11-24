@@ -33,7 +33,13 @@
 </details>
 
 ## Features ✈️
-- 
+- 🔎  Detecting spoofed ADS-B messages
+- 📡  Logging messages on the 1090 MHz frequency
+- ✈️  Mapping and visualizing ADS-B messages
+- ⚙️  A portable Raspberry-Pi based device
+- ⚡️  An accurate neural network classifier
+- 🔨  3D printable case with small form factor
+- 📻  Compatible with the FlightAware SDR
 
 ## Demo Gallery ⚡️
 
