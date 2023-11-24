@@ -5,7 +5,7 @@
 <p align="center">
   <i>Fly Catcher monitors for malicious ADS-B signals in the 1090MHz frequency to detect for aircraft spoofing</i>
    <br/><br/>
-  <b><a href="./docs/showcase.md">Learn More</a></b> | <b><a href="https://demo.dashy.to">Build Guide</a></b> | <b><a href="./docs/quick-start.md">Getting Started</a></b> | <b><a href="https://dashy.to/docs">Video</a></b> | <b><a href="https://github.com/Lissy93/dashy">Research Paper</a></b>
+  <b><a href="#features-️">Learn More</a></b> | <b><a href="#build-it-yourself-️">Build Guide</a></b> | <b><a href="#detecting-for-spoofing-">Getting Started</a></b> | <b><a href="#watch-it-in-action-">Video</a></b> | <b><a href="https://github.com/ANG13T/fly-catcher/blob/main/assets/project_report.pdf">Research Paper</a></b>
   <br/><br/>
 </p>
 
@@ -15,19 +15,19 @@
   
 - **Getting Started**
   - [✈️ Features](#features-️)
-  - [⚡ Demo Gallery](#demo-)
-  - [⚙️ Build it Yourself](#configuring-)
-  - [🚀 Getting Started](#configuring-)
-  - [🔎 Detecting for Spoofing](#configuring-)
+  - [⚡ Demo Gallery](#demo-gallery-️)
+  - [⚙️ Build it Yourself](#build-it-yourself-️)
+  - [🚀 Getting Started](#detecting-for-spoofing-)
+  - [🔎 Detecting for Spoofing](#detecting-for-spoofing-)
 - **Learning More**
-  - [🎥 Watch it in Action](#theming-)
-  - [🔬 Read the Research Paper](#icons-)
-  - [📄 Read the Article](#icons-)
+  - [🎥 Watch it in Action](#watch-it-in-action-)
+  - [🔬 Read the Research Paper](https://github.com/ANG13T/fly-catcher/blob/main/assets/project_report.pdf)
+  - [📄 Read the Article](#article)
 - **Community**
-  - [✨ Contributing](#system-requirements-)
-  - [🏆 Special Thanks & Credits](#credits-)
-  - [💜 Support](#supporting-dashy-)
-  - [📜 License](#license-)
+  - [✨ Contributing](#contributing-)
+  - [🏆 Special Thanks & Credits](#special-thanks--credits-)
+  - [💜 Support](#support-)
+  - [📜 License](https://github.com/ANG13T/fly-catcher/blob/main/LICENSE)
     
   </p>
 </details>
