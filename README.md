@@ -5,7 +5,7 @@
 <p align="center">
   <i>Fly Catcher monitors for malicious ADS-B signals in the 1090MHz frequency to detect for aircraft spoofing</i>
    <br/><br/>
-  <b><a href="#features-️">Learn More</a></b> | <b><a href="#build-it-yourself-️">Build Guide</a></b> | <b><a href="#detecting-for-spoofing-">Getting Started</a></b> | <b><a href="#watch-it-in-action-">Video</a></b> | <b><a href="https://github.com/ANG13T/fly-catcher/blob/main/assets/project_report.pdf">Research Paper</a></b>
+  <b><a href="#features-️">Learn More</a></b> | <b><a href="#build-it-yourself-️">Build Guide</a></b> | <b><a href="#detecting-for-spoofing-">Getting Started</a></b> | <b><a href="#watch-it-in-action-">Video</a></b> | <b><a href="https://github.com/ANG13T/fly-catcher/blob/main/assets/project_report.pdf">Research Paper</a></b> | <b><a href="https://medium.com/@angelinatsuboi/detecting-hacker-aircraft-using-artificial-intelligence-ec249baa866b">Article</a></b>
   <br/><br/>
 </p>
 
@@ -22,7 +22,7 @@
 - **Learning More**
   - [🎥 Watch it in Action](#watch-it-in-action-)
   - [🔬 Read the Research Paper](https://github.com/ANG13T/fly-catcher/blob/main/assets/project_report.pdf)
-  - [📄 Read the Article](#article)
+  - [📄 Read the Article](https://medium.com/@angelinatsuboi/detecting-hacker-aircraft-using-artificial-intelligence-ec249baa866b)
 - **Community**
   - [✨ Contributing](#contributing-)
   - [🏆 Special Thanks & Credits](#special-thanks--credits-)
@@ -121,6 +121,8 @@ For example, `192.168.1.114:8080/data/aircraft.json`
 
 ## Research Paper 🔬
 To get a more in-depth and technical overview of Fly Catcher, you can refer to this [research paper](https://github.com/ANG13T/fly-catcher/blob/main/assets/project_report.pdf).
+
+You can also read an article write-up I made about Fly Catcher [here](https://medium.com/@angelinatsuboi/detecting-hacker-aircraft-using-artificial-intelligence-ec249baa866b).
 
 ## Future Improvements 🚀
 - Enhanced UI features on the radar screen 
