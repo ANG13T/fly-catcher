@@ -97,7 +97,7 @@ Replace longitude and latitude with your [geo-coordinates](https://www.gps-coord
 
 ## Detecting for Spoofing 🔎
 
-Download the Jupyter Notebook
+### Download the Jupyter Notebook
 ```
 git clone https://github.com/ANG13T/fly-catcher.git
 cd notebook
@@ -105,13 +105,13 @@ jupyter notebook
 ```
 Install [Jupyter Notebook](https://jupyter.org/install) if you do not have it
 
-Open up the localhost server at `http://localhost:8888`
+### Open up the localhost server at `http://localhost:8888`
 
-Download JSON Flight Logs from Device
+### Download JSON Flight Logs from Device
 Visit the IP address of the Raspberry Pi device followed by the path `/data/aircraft.json`
 For example, `192.168.1.114:8080/data/aircraft.json`
 
-Open `Fly_Catcher.ipynb` and Run the Notebook
+### Open `Fly_Catcher.ipynb` and Run the Notebook
 
 
 ## Research Paper 🔬
