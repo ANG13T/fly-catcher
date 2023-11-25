@@ -69,6 +69,8 @@ Watch the video overview of Fly Catcher on YouTube
 - 4x 3/32 Screws
 - Python and Pip on Raspberry Pi
 
+<img src="https://github.com/ANG13T/fly-catcher/blob/main/assets/materials.png?raw=true" alt="Folium Map" width="400" />
+
 ### Constructing the Device
 1. Install the Rasbian operating system to the Raspberry Pi with the SD Card
 2. Connect the Flight Aware SDR to the Raspberry Pi using the Micro USB cable
@@ -111,8 +113,11 @@ Install [Jupyter Notebook](https://jupyter.org/install) if you do not have it
 Visit the IP address of the Raspberry Pi device followed by the path `/data/aircraft.json`
 For example, `192.168.1.114:8080/data/aircraft.json`
 
+<img src="https://github.com/ANG13T/fly-catcher/blob/main/assets/flight_log_screenshot.png?raw=true" alt="Folium Map" width="400" />
+
 ### Open `Fly_Catcher.ipynb` and Run the Notebook
 
+<img src="https://github.com/ANG13T/fly-catcher/blob/main/assets/folium_map.png?raw=true" alt="Folium Map" width="400" />
 
 ## Research Paper 🔬
 To get a more in-depth and technical overview of Fly Catcher, you can refer to this [research paper](https://github.com/ANG13T/fly-catcher/blob/main/assets/project_report.pdf).
