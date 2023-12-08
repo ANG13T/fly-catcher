@@ -5,7 +5,7 @@
 <p align="center">
   <i>Fly Catcher monitors for malicious ADS-B signals in the 1090MHz frequency to detect for aircraft spoofing</i>
    <br/><br/>
-  <b><a href="#features-️">Learn More</a></b> | <b><a href="#build-it-yourself-️">Build Guide</a></b> | <b><a href="#detecting-for-spoofing-">Getting Started</a></b> | <b><a href="#watch-it-in-action-">Video</a></b> | <b><a href="https://github.com/ANG13T/fly-catcher/blob/main/assets/project_report.pdf">Research Paper</a></b> | <b><a href="https://medium.com/@angelinatsuboi/detecting-hacker-aircraft-using-artificial-intelligence-ec249baa866b">Article</a></b>
+  <b><a href="#features-️">Learn More</a></b> | <b><a href="#build-it-yourself-️">Build Guide</a></b> | <b><a href="#detecting-for-spoofing-">Getting Started</a></b> | <b><a href="https://youtube.com/watch?v=NJ9ep0IlddA">Video</a></b> | <b><a href="https://github.com/ANG13T/fly-catcher/blob/main/assets/project_report.pdf">Research Paper</a></b> | <b><a href="https://medium.com/@angelinatsuboi/detecting-hacker-aircraft-using-artificial-intelligence-ec249baa866b">Article</a></b>
   <br/><br/>
 </p>
 
@@ -53,6 +53,8 @@
 
 ## Watch it in Action 🎥
 Watch the video overview of Fly Catcher on YouTube
+
+[https://youtube.com/watch?v=NJ9ep0IlddA](https://youtube.com/watch?v=NJ9ep0IlddA)
 
 ## Build it Yourself ⚙️
 
